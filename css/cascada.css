@@ -1,8 +1,12 @@
 body{
-	background-image: url("dibujos/opacidad 11 fondo textura.png");
-	background-repeat:no-repeat;
-	background-position: ;
-	background-attachment:fixed;
+	
+	img{
+	size:500px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom:400px;
+}
 
 }
 
@@ -30,7 +34,7 @@ h3{
 
 p{
 	background-color: #edd3ff;
-	margin-top: 600px;
+	margin-top: 0px;
 	margin-left: 150px;
 	margin-right: 500px;
 }
